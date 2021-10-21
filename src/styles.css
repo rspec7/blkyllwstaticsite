@@ -6,7 +6,8 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #000000;
+  color: rgba(250, 250, 32, 0.897);
 }
 
 main {
